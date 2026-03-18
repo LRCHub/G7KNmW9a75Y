@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Flowers",
+  "base_artist": "Miley Cyrus",
+  "createdAt": "2026-03-18T05:19:22.593838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring My Flowers Now",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/01_Bring_My_Flowers_Now_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flowers on the Wall",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/02_Flowers_on_the_Wall_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flowers On the Wall (Album Version)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/03_Flowers_On_the_Wall_(Album_Version)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flowers On The Wall - Live",
+      "artist": "The Statler Brothers",
+      "has_synced": false,
+      "path": "select/04_Flowers_On_The_Wall_-_Live_The_Statler_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Les pensées sont des flowers",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/05_Les_pensées_sont_des_flowers_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Flowers",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/06_Black_Flowers_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flowers (feat. Sg37)",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/07_Flowers_(feat._Sg37)_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowers",
+      "artist": "loveboy",
+      "has_synced": true,
+      "path": "select/08_Flowers_loveboy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
+      "artist": "Lil Uzi Vert feat. Playboi Carti & Offset",
+      "has_synced": true,
+      "path": "select/09_Of_Course_We_Ghetto_Flowers_(feat._Playboi_Carti_&_Offset)_Lil_Uzi_Vert_feat._Playboi_Carti_&_Offset.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/10_Of_Course_We_Ghetto_Flowers_(feat._Playboi_Carti_&_Offset)_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ancient Walls of Flowers",
+      "artist": "Marcy Playground",
+      "has_synced": true,
+      "path": "select/11_Ancient_Walls_of_Flowers_Marcy_Playground.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flowers",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/12_Flowers_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flowers In December",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/13_Flowers_In_December_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flowers In December (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/14_Flowers_In_December_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flowers in December (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/15_Flowers_in_December_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Run Into Flowers",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/16_Run_Into_Flowers_M83.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Run Into Flowers (Abstrackt Keal Agram Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/17_Run_Into_Flowers_(Abstrackt_Keal_Agram_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Run Into Flowers (Midnight Fuck Remix by Jackson)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/18_Run_Into_Flowers_(Midnight_Fuck_Remix_by_Jackson)_M83.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "has_synced": false,
+      "path": "select/pl_01_Flowers_Miley_Cyrus.txt"
+    }
+  ]
+}
